@@ -1,0 +1,21 @@
+start with title screen?
+-----+△#☆*~
+you cannot success without it.
+
+-  Background and logo images
+        game_title="maps/titlescreen.webp"
+        	/opt/github/wesnoth/wesnoth/data/core/images/
+        game_title_background="maps/background.webp"
+        	/opt/github/wesnoth/wesnoth/data/core/images/
+        game_logo="misc/logo.png"
+        	/opt/github/wesnoth/wesnoth/images/ 
+        game_logo_background="misc/logo-bg.png"
+					/opt/github/wesnoth/wesnoth/images/ 
+		/opt/github/wesnoth/wesnoth/data/gui/window/title_screen.cfg
+	+ tips panel
+	+ menu panel
+		△ campaign
+		△ preferences
+		△ quit
+	+ logo
+	
