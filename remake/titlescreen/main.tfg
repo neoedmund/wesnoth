@@ -1,0 +1,13 @@
+#!/usr/bin/env textfrog
+runnable main args {
+}
+func init {
+	logname ( '_log' 'tfg' )
+	log ( 'tfg init' )
+}
+func OnKeyEvent ( action keycode ) {
+	log ( 'act:%s kc:%s' action keycode )
+}
+func OnTextEvent ( s ) {
+	log ( 'text:[%s]' s )
+}
